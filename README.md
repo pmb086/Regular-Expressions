@@ -1,2 +1,2 @@
 # Regular-Expressions
-Regular Expression formats in various programming languages
+Regular Expression formats scaffoldings in various programming languages
